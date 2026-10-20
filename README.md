@@ -10,29 +10,36 @@
   <img src="https://img.shields.io/badge/Curso-2.º%20ASIR%20B-00897B" alt="2.º ASIR B">
 </p>
 
-## Contenido
+---
 
-### Actividades 9
+<div align="center">
 
-- [Carpeta de actividades](./Actividades_9/)
-- [Ejercicio 1](./Actividades_9/9_1.py)
-- [Ejercicio 2](./Actividades_9/9_2.py)
-- [Ejercicio 3](./Actividades_9/9_3.py)
-- [Ejercicio 4](./Actividades_9/9_4.py)
+### [![Actividades 9](https://img.shields.io/badge/Actividades_9-24292E?style=for-the-badge&logoColor=white)](./Actividades_9/)
 
-### Estructuras
+</div>
 
-#### Actividades 2
+- [![9_1.py](https://img.shields.io/badge/9__1.py-3776AB?style=flat&logo=python&logoColor=white)](./Actividades_9/9_1.py)
+- [![9_2.py](https://img.shields.io/badge/9__2.py-3776AB?style=flat&logo=python&logoColor=white)](./Actividades_9/9_2.py)
+- [![9_3.py](https://img.shields.io/badge/9__3.py-3776AB?style=flat&logo=python&logoColor=white)](./Actividades_9/9_3.py)
+- [![9_4.py](https://img.shields.io/badge/9__4.py-3776AB?style=flat&logo=python&logoColor=white)](./Actividades_9/9_4.py)
 
-- [Repositorio](./estructuras/Actividades_2/)
-- [Ejercicio 1](./estructuras/Actividades_2/2_1.py)
-- [Ejercicio 2](./estructuras/Actividades_2/2_2.py)
+---
 
-#### Actividades 3
+<div align="center">
 
-- [Repositorio](./estructuras/Actividades_3/)
-- [Ejercicio 1](./estructuras/Actividades_3/3_1.py)
-- [Ejercicio 2](./estructuras/Actividades_3/3_2.py)
-- [Ejercicio 3](./estructuras/Actividades_3/3_3.py)
-- [Ejercicio 4](./estructuras/Actividades_3/3_4.py)
-- [Ejercicio 5](./estructuras/Actividades_3/3_5.py)
+### [![Estructuras](https://img.shields.io/badge/Estructuras-24292E?style=for-the-badge&logoColor=white)](./estructuras/)
+
+</div>
+
+#### [![Actividades 2](https://img.shields.io/badge/Actividades_2-444444?style=flat&logoColor=white)](./estructuras/Actividades_2/)
+
+- [![2_1.py](https://img.shields.io/badge/2__1.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_2/2_1.py)
+- [![2_2.py](https://img.shields.io/badge/2__2.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_2/2_2.py)
+
+#### [![Actividades 3](https://img.shields.io/badge/Actividades_3-444444?style=flat&logoColor=white)](./estructuras/Actividades_3/)
+
+- [![3_1.py](https://img.shields.io/badge/3__1.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_1.py)
+- [![3_2.py](https://img.shields.io/badge/3__2.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_2.py)
+- [![3_3.py](https://img.shields.io/badge/3__3.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_3.py)
+- [![3_4.py](https://img.shields.io/badge/3__4.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_4.py)
+- [![3_5.py](https://img.shields.io/badge/3__5.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_5.py)
