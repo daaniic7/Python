@@ -10,7 +10,11 @@
   <img src="https://img.shields.io/badge/Curso-2.º%20ASIR%20B-00897B" alt="2.º ASIR B">
 </p>
 
+Repositorio de actividades y ejercicios realizados durante el módulo optativo de Python de 2.º ASIR B.
+
 ---
+
+## Contenido
 
 <div align="center">
 
@@ -43,3 +47,10 @@
 - [![3_3.py](https://img.shields.io/badge/3__3.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_3.py)
 - [![3_4.py](https://img.shields.io/badge/3__4.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_4.py)
 - [![3_5.py](https://img.shields.io/badge/3__5.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_5.py)
+- [![3_6.py](https://img.shields.io/badge/3__6.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_6.py)
+- [![3_7.py](https://img.shields.io/badge/3__7.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_7.py)
+- [![3_10.py](https://img.shields.io/badge/3__10.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_3/3_10.py)
+
+#### [![Actividades 5](https://img.shields.io/badge/Actividades_5-444444?style=flat&logoColor=white)](./estructuras/Actividades_5/)
+
+- [![5_1.py](https://img.shields.io/badge/5__1.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_5/5_1.py)
