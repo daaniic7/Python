@@ -54,3 +54,7 @@ Repositorio de actividades y ejercicios realizados durante el módulo optativo d
 #### [![Actividades 5](https://img.shields.io/badge/Actividades_5-444444?style=flat&logoColor=white)](./estructuras/Actividades_5/)
 
 - [![5_1.py](https://img.shields.io/badge/5__1.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_5/5_1.py)
+
+#### [![Actividades 6](https://img.shields.io/badge/Actividades_6-444444?style=flat&logoColor=white)](./estructuras/Actividades_6/)
+
+- [![6_1.py](https://img.shields.io/badge/6__1.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_6/6_1.py)
