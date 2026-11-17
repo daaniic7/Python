@@ -59,7 +59,13 @@ Repositorio de actividades y ejercicios realizados durante el módulo optativo d
 
 - [![6_1.py](https://img.shields.io/badge/6__1.py-3776AB?style=flat&logo=python&logoColor=white)](./estructuras/Actividades_6/6_1.py)
 
-#### [![Retos](https://img.shields.io/badge/Retos-444444?style=flat&logoColor=white)](./Retos/)
+---
+
+<div align="center">
+
+### [![Retos](https://img.shields.io/badge/Retos-24292E?style=for-the-badge&logoColor=white)](./Retos/)
+
+</div>
 
 - [![Areas.py](https://img.shields.io/badge/Areas.py-3776AB?style=flat&logo=python&logoColor=white)](./Retos/Areas.py)
 - [![Comparardorv2.py](https://img.shields.io/badge/Comparadorv2.py-3776AB?style=flat&logo=python&logoColor=white)](./Retos/Comparadorv2.py)
@@ -67,6 +73,12 @@ Repositorio de actividades y ejercicios realizados durante el módulo optativo d
 - [![Ripios.py](https://img.shields.io/badge/Ripios.py-3776AB?style=flat&logo=python&logoColor=white)](./Retos/Ripios.py)
 - [![Sucesion.py](https://img.shields.io/badge/Sucesion.py-3776AB?style=flat&logo=python&logoColor=white)](./Retos/Sucesion.py)
 
+---
+
+<div align="center">
+
 ### [![Simulacro](https://img.shields.io/badge/Simulacros-24292E?style=for-the-badge&logoColor=white)](./Simulacro/)
+
+</div>
 
 - [![Simulacro1.py](https://img.shields.io/badge/Simulacro.py-3776AB?style=flat&logo=python&logoColor=white)](./Simulacro/Simulacro1.py)
