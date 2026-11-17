@@ -1,0 +1,1 @@
+valor_inicial = int(input(""))
